@@ -1,4 +1,4 @@
 # Risky1.0.exe
 MY NEW MALWARE! ONLY WORKS IN WINDOWS XP!
 NET 3.5 REQUIRED TO EXECUTE.
-credits to: Ciberboy and trisodium for testing this.
+credits to: Cactos/1_Cactos and IDKDUDE1THING/REAK_IDKs Archive
